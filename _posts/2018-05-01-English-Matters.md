@@ -9,9 +9,7 @@ English matters.
 
 ---
 
-**matter** /ˈmatə/
-
-v. (*usually with negative or in questions*)
+**matter** /ˈmatə/ v. (*usually with negative or in questions*)
 
 be important or significant
 
