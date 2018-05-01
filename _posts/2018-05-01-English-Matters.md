@@ -13,7 +13,7 @@ English matters.
 
 v. (*usually with negative or in questions*)
 
-: be important or significant
+be important or significant
 
 - **It doesn't matter** to me what you do.
 - As long as you're happy, that's **all that matters**.
