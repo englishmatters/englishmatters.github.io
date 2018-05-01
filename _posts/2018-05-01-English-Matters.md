@@ -25,6 +25,7 @@ be important or significant
 **SYN**
 
 **count** /kaʊnt/ v.
+
 be significant 
 
 - It did not matter what the audience thought—it was the critics that counted.
