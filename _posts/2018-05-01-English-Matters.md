@@ -1,19 +1,15 @@
 ---
 layout: post
 title: English Matters
-key: 20180501
-tags: 
 ---
 
 English matters.
 
 ---
 
-**matter** /ˈmatə/
+**matter** /ˈmatə/ v. [*usually with negative or in questions*]
 
-v. (*usually with negative or in questions*)
-
-: be important or significant
+be important or significant
 
 - **It doesn't matter** to me what you do.
 - As long as you're happy, that's **all that matters**.
@@ -24,9 +20,11 @@ v. (*usually with negative or in questions*)
 
 ---
 
-SYN
+**SYN**
 
-**count** /kaʊnt/ v. be significant 
+**count** /kaʊnt/ v.
+
+be significant 
 
 - It did not matter what the audience thought—it was the critics that counted.
 - **It's the thought that counts** (= used about a small but kind action or gift).
