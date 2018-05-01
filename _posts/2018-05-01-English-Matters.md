@@ -1,15 +1,13 @@
 ---
 layout: post
 title: English Matters
-key: 20180501
-tags: 
 ---
 
 English matters.
 
 ---
 
-**matter** /ˈmatə/ v. (*usually with negative or in questions*)
+**matter** /ˈmatə/ v. [*usually with negative or in questions*]
 
 be important or significant
 
