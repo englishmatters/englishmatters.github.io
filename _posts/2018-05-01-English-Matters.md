@@ -11,7 +11,7 @@ English matters.
 
 **matter** /ˈmatə/
 
-v. [usually with negative or in questions] 
+v. (*usually with negative or in questions*) 
 
 : be important or significant
 
