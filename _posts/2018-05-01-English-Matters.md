@@ -22,9 +22,10 @@ be important or significant
 
 ---
 
-SYN
+**SYN**
 
-**count** /kaʊnt/ v. be significant 
+**count** /kaʊnt/ v.
+be significant 
 
 - It did not matter what the audience thought—it was the critics that counted.
 - **It's the thought that counts** (= used about a small but kind action or gift).
