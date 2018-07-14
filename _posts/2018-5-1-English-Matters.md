@@ -1,7 +1,6 @@
 ---
 layout: post
 title: English Matters
-date: 2018-05-01
 ---
 
 English matters.
